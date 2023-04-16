@@ -316,7 +316,6 @@
  }
 
  .About {
-     width: 100vw;
      display: flex;
      justify-content: center;
      align-items: center;
@@ -329,10 +328,6 @@
      height: 70vh;
      rotate: 360deg;
      pointer-events: none;
- }
-
- .About1 {
-     width: 42vw;
  }
 
  .image {
